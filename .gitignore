@@ -1,0 +1,5 @@
+test_img/
+secret_region/
+__pycache__
+temporary_save_region
+console_kibana/
